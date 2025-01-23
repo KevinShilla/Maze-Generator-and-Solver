@@ -107,24 +107,9 @@ Generated Maze:
 GUI Output:
 ![image](https://github.com/user-attachments/assets/20290846-1f09-4a00-9e5d-e10ce685a99d)
 
-
----
-
-## 🌐 Possible Improvements
-
-- Add ⭐ **A*** or 🎮 **Dijkstra's Algorithm** for solving.
-- Implement a ⚖️ **maze editor** for manual adjustments.
-- Add buttons for 🔄 **real-time generation** and solution visualization.
-
----
-
-## ℹ️ License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
 
 ## 👤 Author
 
-Developed by **[Your Name](https://github.com/<your-username>)**. Feel free to fork, modify, and contribute to this project!
+Developed by **[Kevin Shilla](https://github.com/KevinShilla)**. Feel free to fork, modify, and contribute to this project!
 
