@@ -1,16 +1,16 @@
-# 🎮 Maze Generator and Solver
+# Maze Generator and Solver
 
 Welcome to **Maze Generator and Solver**, a Python project for generating and solving mazes with multiple algorithms and a graphical interface. This tool allows you to customize the maze size, choose generation algorithms, and visualize the solution path interactively.
 
 ---
 
-## 🔘 Features
+## Features
 
 - **Maze Generation Algorithms:**
-  - 🔄 **Depth-First Search (DFS):** Recursive backtracking.
-  - ✨ **Prim's Algorithm:** Randomized spanning tree approach.
+  -  **Depth-First Search (DFS):** Recursive backtracking.
+  -  **Prim's Algorithm:** Randomized spanning tree approach.
 - **Maze Solving Algorithm:**
-  - 🔀 **Breadth-First Search (BFS):** Finds the shortest path.
+  -  **Breadth-First Search (BFS):** Finds the shortest path.
 - **Graphical User Interface (GUI):**
   - Visualizes the maze structure and solution path with red dots.
 - **Command-Line Options:**
@@ -18,7 +18,7 @@ Welcome to **Maze Generator and Solver**, a Python project for generating and so
 
 ---
 
-## 🔧 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -35,7 +35,7 @@ cd maze-generator-solver
 
 ---
 
-## ⚙️ Usage
+##  Usage
 
 ### Running the Program
 
@@ -65,7 +65,7 @@ python main.py --width <width> --height <height> --algo <algorithm>
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```plaintext
 maze-generator-solver/
@@ -77,19 +77,19 @@ maze-generator-solver/
 
 ---
 
-## 🤖 How It Works
+##  How It Works
 
 1. **Maze Generation:**
-   - 🔄 **DFS:** Randomly removes walls between cells using a recursive stack-based backtracking algorithm.
-   - ✨ **Prim's:** Incrementally builds the maze by adding neighboring cells and removing walls.
+   -  **DFS:** Randomly removes walls between cells using a recursive stack-based backtracking algorithm.
+   -  **Prim's:** Incrementally builds the maze by adding neighboring cells and removing walls.
 2. **Maze Solving:**
-   - 🔀 **BFS:** Ensures the shortest path from the start to the goal is found.
+   -  **BFS:** Ensures the shortest path from the start to the goal is found.
 3. **Graphical Display:**
    - Tkinter's Canvas widget draws the maze grid, walls, and highlights the solution path with red dots.
 
 ---
 
-## 🎨 Screenshots
+##  Screenshots
 
 ### Example: A 10x5 Maze (DFS)
 
@@ -109,7 +109,7 @@ GUI Output:
 
 ---
 
-## 👤 Author
+##  Author
 
 Developed by **[Kevin Shilla](https://github.com/KevinShilla)**. Feel free to fork, modify, and contribute to this project!
 
